@@ -1,4 +1,6 @@
 mmspider
 ========
 
-MMS Crawler, notifies when grades are up
+MMS Crawler for University of St Andrews, which checks for grade releases.
+
+Usage: ./mmspider <username> <password> <email address>
